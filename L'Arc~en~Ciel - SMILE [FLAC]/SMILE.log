@@ -1,0 +1,106 @@
+EAC extraction logfile from 26. December 2008, 19:04 for CD
+L'Arc-en-Ciel / SMILE
+
+Used drive  : ASUS    CB-5216A   Adapter: 0  ID: 2
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Read offset correction : 6
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Program Files\Exact Audio Copy\flac-1.1.4-win\bin\flac.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -A tukey(0.25) -A gauss(0.1875) -b 4096 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s --sector-align
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\EAC\01 - Seppun.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.9 %
+     Track quality 99.9 %
+     Copy CRC E33F20F8
+     Copy OK
+
+Track  2
+     Filename C:\EAC\02 - READY STEADY GO.wav
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Copy CRC 2CB7F5DB
+     Copy OK
+
+Track  3
+     Filename C:\EAC\03 - Lover Boy.wav
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Copy CRC 730965B0
+     Copy OK
+
+Track  4
+     Filename C:\EAC\04 - Feeling Fine.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 6CD7D459
+     Copy OK
+
+Track  5
+     Filename C:\EAC\05 - Time goes on.wav
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Copy CRC 0CE0E72B
+     Copy OK
+
+Track  6
+     Filename C:\EAC\06 - Coming Closer.wav
+
+     Pre-gap length  0:00:01.90
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Copy CRC C04173A0
+     Copy OK
+
+Track  7
+     Filename C:\EAC\07 - Eien.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 77EF829F
+     Copy OK
+
+Track  8
+     Filename C:\EAC\08 - REVELATION.wav
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Copy CRC 0EE5A0C3
+     Copy OK
+
+Track  9
+     Filename C:\EAC\09 - Hitomi no Jyuunin.wav
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Copy CRC 1C3E6BB6
+     Copy OK
+
+Track 10
+     Filename C:\EAC\10 - Spirit dreams inside.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC D4FBF5F7
+     Copy OK
+
+No errors occured
+
+
+End of status report
