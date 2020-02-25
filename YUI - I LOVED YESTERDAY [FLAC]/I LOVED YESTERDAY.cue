@@ -1,0 +1,72 @@
+REM GENRE "Pop [Japanese]"
+REM DATE 2008
+REM DISCID A20ADD0D
+REM COMMENT "ExactAudioCopy v0.99pb4"
+PERFORMER "YUI"
+TITLE "I LOVED YESTERDAY"
+FILE "01 - Laugh away.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "Laugh away"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "02 - My Generation.wav" WAVE
+  TRACK 02 AUDIO
+    TITLE "My Generation"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "03 - Find me.wav" WAVE
+  TRACK 03 AUDIO
+    TITLE "Find me"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "04 - No way.wav" WAVE
+  TRACK 04 AUDIO
+    TITLE "No way"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "05 - Namidairo.wav" WAVE
+  TRACK 05 AUDIO
+    TITLE "Namidairo"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "06 - Daydreamer.wav" WAVE
+  TRACK 06 AUDIO
+    TITLE "Daydreamer"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+  TRACK 07 AUDIO
+    TITLE "Love is all"
+    PERFORMER "YUI"
+    INDEX 00 03:34:47
+FILE "07 - Love is all.wav" WAVE
+    INDEX 01 00:00:00
+FILE "08 - I will love you.wav" WAVE
+  TRACK 08 AUDIO
+    TITLE "I will love you"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "09 - We will go.wav" WAVE
+  TRACK 09 AUDIO
+    TITLE "We will go"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "10 - OH YEAH.wav" WAVE
+  TRACK 10 AUDIO
+    TITLE "OH YEAH"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "11 - My friend.wav" WAVE
+  TRACK 11 AUDIO
+    TITLE "My friend"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "12 - LOVE & TRUTH.wav" WAVE
+  TRACK 12 AUDIO
+    TITLE "LOVE & TRUTH"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00
+FILE "13 - Am I wrong .wav" WAVE
+  TRACK 13 AUDIO
+    TITLE "Am I wrong?"
+    PERFORMER "YUI"
+    INDEX 01 00:00:00

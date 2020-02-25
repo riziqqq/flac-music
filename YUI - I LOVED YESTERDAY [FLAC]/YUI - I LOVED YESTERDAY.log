@@ -1,0 +1,201 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 13. July 2008, 1:17
+
+YUI / I LOVED YESTERDAY
+
+Used drive  : MATSHITADVD-RAM LF-D311   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 103
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 192 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:19.26 |         0    |    19450   
+        2  |  4:19.26 |  3:53.46 |     19451    |    36971   
+        3  |  8:12.72 |  3:35.54 |     36972    |    53150   
+        4  | 11:48.51 |  1:16.57 |     53151    |    58907   
+        5  | 13:05.33 |  3:33.01 |     58908    |    74883   
+        6  | 16:38.34 |  3:35.33 |     74884    |    91041   
+        7  | 20:13.67 |  4:24.07 |     91042    |   110848   
+        8  | 24:37.74 |  4:21.29 |    110849    |   130452   
+        9  | 28:59.28 |  3:02.36 |    130453    |   144138   
+       10  | 32:01.64 |  3:12.35 |    144139    |   158573   
+       11  | 35:14.24 |  3:13.05 |    158574    |   173053   
+       12  | 38:27.29 |  4:18.61 |    173054    |   192464   
+       13  | 42:46.15 |  3:35.19 |    192465    |   208608   
+
+
+Track  1
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\01 - Laugh away.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC 204F2866
+     Copy CRC 204F2866
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\02 - My Generation.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 74D3E960
+     Copy CRC 74D3E960
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\03 - Find me.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 32FF7DE2
+     Copy CRC 32FF7DE2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\04 - No way.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 629E0B4C
+     Copy CRC 629E0B4C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\05 - Namidairo.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC AEAC886B
+     Copy CRC AEAC886B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\06 - Daydreamer.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC AE74CBC1
+     Copy CRC AE74CBC1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\07 - Love is all.wav
+
+     Pre-gap length  0:00:00.81
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 73A5FFCD
+     Copy CRC 73A5FFCD
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\08 - I will love you.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC F7F7F265
+     Copy CRC F7F7F265
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\09 - We will go.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 4C1E061E
+     Copy CRC 4C1E061E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\10 - OH YEAH.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC D62745EA
+     Copy CRC D62745EA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\11 - My friend.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC F3977507
+     Copy CRC F3977507
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\12 - LOVE & TRUTH.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 04CE2C5F
+     Copy CRC 04CE2C5F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Perfect\YUI -2008- I LOVED YESTERDAY [FLAC](log)(cue)\13 - Am I wrong .wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC D7A1EC06
+     Copy CRC D7A1EC06
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
