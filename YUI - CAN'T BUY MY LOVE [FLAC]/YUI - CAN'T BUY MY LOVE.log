@@ -1,0 +1,199 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 8. July 2008, 2:20
+
+YUI / CAN'T BUY MY LOVE
+
+Used drive  : MATSHITADVD-RAM LF-D311   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 103
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 192 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:38.13 |         0    |    16362   
+        2  |  3:38.13 |  3:08.38 |     16363    |    30500   
+        3  |  6:46.51 |  3:37.12 |     30501    |    46787   
+        4  | 10:23.63 |  4:05.62 |     46788    |    65224   
+        5  | 14:29.50 |  0:51.60 |     65225    |    69109   
+        6  | 15:21.35 |  3:29.73 |     69110    |    84857   
+        7  | 18:51.33 |  2:57.65 |     84858    |    98197   
+        8  | 21:49.23 |  4:16.26 |     98198    |   117423   
+        9  | 26:05.49 |  3:54.39 |    117424    |   135012   
+       10  | 30:00.13 |  4:01.64 |    135013    |   153151   
+       11  | 34:02.02 |  3:39.38 |    153152    |   169614   
+       12  | 37:41.40 |  4:33.20 |    169615    |   190109   
+       13  | 42:14.60 |  3:13.35 |    190110    |   204619   
+
+
+Track  1
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\01 - How crazy.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC CCC03A5F
+     Copy CRC CCC03A5F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\02 - Rolling star.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC A39FE1B2
+     Copy CRC A39FE1B2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\03 - It's all right.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC 094FB1E4
+     Copy CRC 094FB1E4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\04 - I remember you.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 76091B2B
+     Copy CRC 76091B2B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\05 - RUIDO.wav
+
+     Peak level 100.0 %
+     Track quality 99.7 %
+     Test CRC 18514E37
+     Copy CRC 18514E37
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\06 - CHE.R.RY.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 52D9241F
+     Copy CRC 52D9241F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\07 - Thank you My teens.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 784F7F87
+     Copy CRC 784F7F87
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\08 - Umbrella.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC C0991AF6
+     Copy CRC C0991AF6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\09 - Highway chance.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 9DC80B0C
+     Copy CRC 9DC80B0C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\10 - Happy Birthday to you you.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC A069B5FD
+     Copy CRC A069B5FD
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\11 - Winding road.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC 7ED39745
+     Copy CRC 7ED39745
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\12 - Good-bye days.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC C21147A5
+     Copy CRC C21147A5
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Perfect\YUI -2007- CAN'T BUY MY LOVE [FLAC](log)(cue)\13 - Why .wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 3389A23A
+     Copy CRC 3389A23A
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
